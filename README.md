@@ -1,7 +1,11 @@
 # Python
-My Python Projects from all the way in 2020.
+My Python Projects from all the way in 2020.\n
 ----------***----------
-CALCULATOR.py
-A calculator with a graphical interface.
+CALCULATOR.py\n
+A calculator with a graphical interface.\n
 ----------***----------
+CurrEx.py\n
+A currency exchange lookup script.\n
+----------***----------\n
+
 
